@@ -2,4 +2,4 @@
 
 This project contains two model classes named Student and StudentClass and one main class for XML serialization and deserialization.
 
-# Output
+# [Output](https://github.com/MuhammadBilalYar/XmlSerialization/wiki)
